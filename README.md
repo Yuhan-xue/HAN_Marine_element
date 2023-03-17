@@ -14,4 +14,4 @@
 ## 2021/3/14 [海洋要素数据的质量控制](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK1/WORK1.ipynb)
 - 1.**奇异值判定与处理，生成新序列**
 - 2.**分析两序列的平均值、标准差等统计特征的变化**
-- 拓展作业见[拓展作业-空间二位插值](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/拓展/拓展1.ipynb)
+- 拓展作业见[拓展作业-空间二位插值](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK1/%E6%8B%93%E5%B1%95/%E6%8B%93%E5%B1%951.ipynb)
