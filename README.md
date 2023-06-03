@@ -21,4 +21,8 @@
 
 ## 作业三 [长期水位资料的调和分析](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK3/WORK3.ipynb)
 
+<<<<<<< HEAD
 ## 作业四 [地转流计算](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK3/WORK4.ipynb)
+=======
+## 作业四 [地转流计算-施工ing](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK4/WORK4.ipynb)
+>>>>>>> 680f11fdec07efd2799c88d1aba5e62c7d378d49
