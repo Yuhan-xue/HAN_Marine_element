@@ -1,4 +1,5 @@
 # HAN_Marine_element
+
 汉の2023春OUC海洋要素计算作业库
 
 - 此仓库为中国海洋大学课程：海洋要素计算*(选课号：[070103101251])*的作业而建立
@@ -11,8 +12,8 @@
   - GB/T 14914.6-2021, 海洋观测规范　第6部分：数据处理与质量控制[S].
   - [GSW-Python](https://teos-10.github.io/GSW-Python/gsw_flat.html)
 
-
 ## 作业一 [海洋要素数据的质量控制](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK1/WORK1.ipynb)
+
 - 1.**奇异值判定与处理，生成新序列**
 - 2.**分析两序列的平均值、标准差等统计特征的变化**
 - 拓展作业见[拓展作业-空间二位插值](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK1/%E6%8B%93%E5%B1%95/%E6%8B%93%E5%B1%951.ipynb)
@@ -22,4 +23,3 @@
 ## 作业三 [长期水位资料的调和分析](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK3/WORK3.ipynb)
 
 ## 作业四 [地转流计算](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK4/WORK4.ipynb)
-
