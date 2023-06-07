@@ -23,3 +23,5 @@
 ## 作业三 [长期水位资料的调和分析](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK3/WORK3.ipynb)
 
 ## 作业四 [地转流计算](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK4/WORK4.ipynb)
+
+## 作业五 [海浪资料统计分析-施工ing 06\07\2023](https://nbviewer.org/github/Yuhan-xue/HAN_Marine_element/blob/main/WORK5/WORK5.ipynb)
