@@ -24,14 +24,14 @@
 - 2.**分析两序列的平均值、标准差等统计特征的变化**
 - 拓展作业见[拓展作业-空间二位插值][def1_d]
 
-![WORK1代表图片](WORK1\results.png)
+![WORK1代表图片](https://github.com/Yuhan-xue/HAN_Marine_element/blob/main/WORK1/results.png)
 
 ## 作业二 [利用EOF方法研究北太平洋海表面温度总体时空变化特征][def2]
 
 - 选取1900-2020年为研究时间段，利用EOF方法对北太平洋海表面温度场数据进行分析。  
 - 讨论北太平洋SST在1900-2020年总体时空变化特征
 
-![WORK2代表图片](WORK2\results.png)
+![WORK2代表图片](https://github.com/Yuhan-xue/HAN_Marine_element/blob/main/WORK2/results.png)
 
 ## 作业三 [长期水位资料的调和分析][def3]
 
@@ -150,11 +150,11 @@
   </tbody>
 </table>
 
-![WORK3代表图片](WORK3\results.png)
+![WORK3代表图片](https://github.com/Yuhan-xue/HAN_Marine_element/blob/main/WORK3/results.png)
 
 ## 作业四 [地转流计算][def4]
 
-![WORK4代表图片](WORK4\2018-01%2010%20dbar.png)
+![WORK4代表图片](https://github.com/Yuhan-xue/HAN_Marine_element/blob/main/WORK4/2018-01%2010%20dbar.png)
 
 - 1.利用两月的月平均资料计算北太平洋*6°N-35°N*范围内的地转流，选取**1500db**作为参考零面画出*10db*，*100 db*，*250 db*，*500 db*等四个深度层上的流场和流速
 - 2.利用上面计算结果，计算北赤道流水体输运（如130°E，8°N-18°N断面），比较讨论两月结果差异，也可进一步比较不同断面的差异  
@@ -164,7 +164,7 @@
 - 1. 画出波面高度时间序列，利用上跨零点或者下跨零点的方法读取数据资料中的波高、周期等波浪要素，并画图展示。  
 - 2. 画出波高的概率密度分布，并计算给出有效波高和有效波周期  
 
-![WORK5代表图片](WORK5\result.png)
+![WORK5代表图片](https://github.com/Yuhan-xue/HAN_Marine_element/blob/main/WORK5/result.png)
 
 [先輩のRepo]: https://github.com/FinalTheory/oceanography-numerical-calculations
 [glbs]: https://github.com/c-bata/outlier-utils
